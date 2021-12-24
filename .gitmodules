@@ -7,3 +7,6 @@
 [submodule "drivers/net/wireless/realtek/rtl8814au"]
 	path = drivers/net/wireless/realtek/rtl8814au
 	url = https://github.com/hendramanudinata03/rtl8814au.git
+[submodule "drivers/net/wireless/realtek/rtl88x2bu"]
+	path = drivers/net/wireless/realtek/rtl88x2bu
+	url = https://github.com/hendramanudinata03/rtl88x2bu.git
